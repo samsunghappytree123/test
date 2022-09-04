@@ -1,0 +1,3 @@
+[submodule "happytreebot-translate"]
+	path = happytreebot-translate
+	url = https://github.com/discord-korea/happytreebot-translate
